@@ -44,6 +44,6 @@ Stay tuned for these exciting updates!
 
 ## Get Started  
 Download **Chroma Reader** today and take control of your PDFs like never before!  
-Questions or feedback? Contact us at **[your-email@example.com](mailto:your-email@example.com)**.
+Questions or feedback? Contact us at **[email](mailto:llouismrc2@gmail.com)**.
 
 Thank you for choosing **Chroma Reader**!
