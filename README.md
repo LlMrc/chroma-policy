@@ -56,7 +56,7 @@ We may update this Privacy Policy periodically. Changes will be communicated thr
 
 ## 6. Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us at:  
-**email(mailto:llouismrc2@gmail.com)**
+**[email](mailto:llouismrc2@gmail.com)**
 
 ---
 
