@@ -1,4 +1,4 @@
-# Welcome to Chroma Reader
+# Welcome to our Reader
 
 *Your ultimate solution for managing PDF files, taking notes, and playing audio—all in one app. Designed for readers, students, and professionals, Chroma Reader transforms your PDF experience into something smarter and more productive.
 
@@ -26,7 +26,7 @@ Navigate through the app with ease, thanks to an intuitive design optimized for 
 - **Customizable Notes:** Choose your favorite colors to keep your annotations organized and visually appealing.  
 - **Seamless Performance:** Optimized to handle large PDFs and multiple features with ease.
 
-we may collect the following types of data:
+##we may collect the following types of data:
 
 1. **Device Media**  
    - Access to your image and video files to display, organize, and manage your media content.  
